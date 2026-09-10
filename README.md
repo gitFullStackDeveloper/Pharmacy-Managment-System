@@ -62,9 +62,9 @@ A professional pharmacy management system designed to manage medicines, inventor
 
 ## Tech Stack
 
-**Frontend:** React 19 + TypeScript
-**Backend:** TanStack Start Server Functions + Supabase Auth
-**Database:** PostgreSQL via Supabase
+- **Frontend:** React 19 + TypeScript
+- **Backend:** TanStack Start Server Functions + Supabase Auth
+- **Database:** PostgreSQL via Supabase
 
 ## Project Structure
 
