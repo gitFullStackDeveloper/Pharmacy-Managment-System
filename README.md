@@ -60,22 +60,6 @@ A professional pharmacy management system designed to manage medicines, inventor
 - View personal daily sales summary
 - No access to stock editing or management controls
 
-## System Requirements
-
-- Role-based authentication
-- Responsive and user-friendly dashboard
-- Real-time inventory updates
-- Medicine, user, sales, supplier, and inventory management
-- Individual and bulk medicine entry
-- Excel file import for bulk medicine entry
-- Audit logs for user activities
-- Data validation and security
-- Role-based permissions
-
-## Project Goal
-
-To provide a real-world pharmacy management solution for efficiently managing medicines, inventory, sales, suppliers, users, and daily pharmacy operations with secure role-based workflows.
-
 ## Tech Stack
 
 ### Frontend
@@ -108,10 +92,27 @@ Pharmacy-Management-System/
 │   └── server/
 ├── supabase/
 │   ├── migrations/
-│   └── config.toml
-├── package.json
+ 
+
 
 ```
+
+## System Requirements
+
+- Role-based authentication
+- Responsive and user-friendly dashboard
+- Real-time inventory updates
+- Medicine, user, sales, supplier, and inventory management
+- Individual and bulk medicine entry
+- Excel file import for bulk medicine entry
+- Audit logs for user activities
+- Data validation and security
+- Role-based permissions
+
+## Project Goal
+
+To provide a real-world pharmacy management solution for efficiently managing medicines, inventory, sales, suppliers, users, and daily pharmacy operations with secure role-based workflows.
+
 
 ## Author
 
