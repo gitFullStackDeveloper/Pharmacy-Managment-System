@@ -60,7 +60,7 @@ A professional pharmacy management system designed to manage medicines, inventor
 - View personal daily sales summary
 - No access to stock editing or management controls
 
-## Tech Stack
+<!-- ## Tech Stack
 
 ### Frontend
 
@@ -76,7 +76,12 @@ A professional pharmacy management system designed to manage medicines, inventor
 
 ### Database
 
-- PostgreSQL via Supabase
+- PostgreSQL via Supabase -->
+## Tech Stack
+
+**Frontend:** React 19 + TypeScript
+**Backend:** TanStack Start Server Functions + Supabase Auth
+**Database:** PostgreSQL via Supabase
 
 ## Project Structure
 
